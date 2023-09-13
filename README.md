@@ -19,6 +19,10 @@ Currently I have found none, and considering how simple the program is it shoudl
 # Information
 FearGen is a tool built in Python with CustomTKinter, its my approach on a SerialGenerator, it can generate up to 9999 unique serial generators starting with a custom prefix,and you can even choose the path of where the file will generate, the program has additional features like allowing users to easily print large ammounts of random text(Coming soon).
 
+Picture of FearGen(B2): 
+<img width="189" alt="feargenb2" src="https://github.com/DrMixxer/FearGen/assets/89403966/6e1ffe17-94c5-4e0a-b1ec-c9f22481f95c">
+
+
 # Changlelog
 Beta 1.0
 [+] Added SerialGenerator.py
