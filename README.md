@@ -11,7 +11,7 @@ FearGen is a serial-key multipurpose utility tool which has a lot of functionali
 
 | Windows  | MacOS | Linux 
 | ---------------- | ------------- | ------------- |
-| Win11/10(Tested) | MacOS 12+(Tested)     | Untested(Although in theory if you install python it should work open a issue if it dosent and list your Distro of linux.     |
+| Win11/10(Tested) | MacOS 12+(Tested)     | Untested(Although in theory if you install python it should work open a issue if it dosent and list your Distro of linux.)    |
 
 # Issues
 Currently I have found none, and considering how simple the program is it shoudlnt have any or many, if it does open a ticket or issue in Issues tab.
