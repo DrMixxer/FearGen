@@ -3,11 +3,22 @@ FearGen is a serial-key multipurpose utility tool which has a lot of functionali
 
 # User Guide
 
+
+## Startup
 `1. First download the latest verison of python from https://www.python.org/downloads/`
 
 `2. Download the latest release of FearGen and check the compatibility sheet below to check if its compatible with your machine`
 
 `3. Once youve installed FearGen extract the ZIP then run the installlibs.bat then start.bat(you may need to run as administrator sometimes)`
+
+## How to generate serial keys
+`1. Add a prefix(First for letters/numbers of the serial key so like your brand name`
+
+`2. Set the ammount of serial keys to be generated `
+
+`3. Set the path to where the file will generate `
+
+`4. Enjoy! ` 
 
 # Compatibility
 
@@ -34,6 +45,15 @@ Beta 2.0
 [+] Added ErrorWindow.py + to many serials generated Error (max is 9999 as of right know) 
 [+] Added prefix,custom path, and ammount selection to the UI
 [+] Made the serial generator more efficent
+
+Beta 3.0
+[+] Fixed bugs with the ErrorWindow.py
+[+] Added auto-installer for all PY Libaries
+[+] Added start.bat
+
+# Support 
+
+### For support either open a issue or join the discord server (Coming soon).
 
 # License
 Its licensed with the MIT License.
