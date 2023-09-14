@@ -8,7 +8,7 @@ customtkinter.set_default_color_theme("blue")
 
 app = customtkinter.CTk()
 app.geometry("256x256")
-app.title("FearGen B2")
+app.title("FearGen B3")
 
 # Define a global variable to keep track of the generated serial keys
 generated_serials = set()
@@ -35,7 +35,7 @@ def button_callback():
             for serial in serials:
                 file.write(serial + "\n")
     except FileNotFoundError:
-        errors.display_error("ERROR 1: Invalid path")
+        ErrorWindow.display_error("ERROR 1: Invalid path")
         return
 
     app.quit()
