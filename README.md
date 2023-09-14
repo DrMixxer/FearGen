@@ -55,6 +55,14 @@ Beta 3.0
 
 ### For support either open a issue or join the discord server (Coming soon).
 
+# Donate
+
+To support project FearGen and me as a developer you can either BuyMeACoffee-Commingsoon, or buy FearGen Premium which adds many more features, early access to updates and more.
+Buy Me a Coffee: Coming soon 
+FearGen Premium: Coming soon 
+
+FearGen Premium is 3.50$ btw it adds faster updates and over 20 more features then the free verison, and inclouds a nicer GUI, its faster, less bugs and more. 
+
 # License
 Its licensed with the MIT License.
 The program can be used to generate license/serial keys for your bussniess, commerical usage and personal use, but you cant use our code without credit.
