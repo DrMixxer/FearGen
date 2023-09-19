@@ -59,6 +59,14 @@ Picture of FearGen(B2):
 
 [+] Added start.bat
 
+**Beta 4.0**
+
+[+] Added Settings menu(You need to expand the application a bit, ill fix it next update)
+
+[+] Added hashing (SHA-256 + SHA-512)
+
+NOTE: When you generate the hashed verison it will give a unhashed verison so for example 2894ad9cd7f8a2f7ef18c330267697272e2941992f76959b16013ab1c66d0bae-examplecf26BUmXz3XmHuOM, examplecf26BUmXz3XmHuOM is the unhashed verison the dash seperates them and 2894ad9cd7f8a2f7ef18c330267697272e2941992f76959b16013ab1c66d0bae is hashed.
+
 # Support 
 
 ### For support either open a issue or join the discord server (Coming soon).
