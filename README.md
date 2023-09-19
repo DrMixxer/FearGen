@@ -42,13 +42,18 @@ Beta 1.0
 
 Beta 2.0
 [+] Added UISerialGenerator.py (CustomTKinter UI)
+
 [+] Added ErrorWindow.py + to many serials generated Error (max is 9999 as of right know) 
+
 [+] Added prefix,custom path, and ammount selection to the UI
+
 [+] Made the serial generator more efficent
 
 Beta 3.0
 [+] Fixed bugs with the ErrorWindow.py
+
 [+] Added auto-installer for all PY Libaries
+
 [+] Added start.bat
 
 # Support 
