@@ -37,10 +37,12 @@ Picture of FearGen(B2):
 
 
 # Changlelog
-Beta 1.0
+**Beta 1.0**
+
 [+] Added SerialGenerator.py
 
-Beta 2.0
+**Beta 2.0**
+
 [+] Added UISerialGenerator.py (CustomTKinter UI)
 
 [+] Added ErrorWindow.py + to many serials generated Error (max is 9999 as of right know) 
@@ -49,7 +51,8 @@ Beta 2.0
 
 [+] Made the serial generator more efficent
 
-Beta 3.0
+**Beta 3.0**
+
 [+] Fixed bugs with the ErrorWindow.py
 
 [+] Added auto-installer for all PY Libaries
