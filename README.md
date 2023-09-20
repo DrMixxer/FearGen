@@ -73,8 +73,9 @@ NOTE: When you generate the hashed verison it will give a unhashed verison so fo
 
 # Donate
 
-To support project FearGen and me as a developer you can either BuyMeACoffee-Commingsoon, or buy FearGen Premium which adds many more features, early access to updates and more.
+To support project FearGen and me as a developer you can either BuyMeACoffee-Commingsoon, or donate via the resale platform, or buy FearGen Premium which adds many more features, early access to updates and more.
 Buy Me a Coffee: Coming soon 
+Donate Via FastResale: https://fastresale.sell.app/product/donate
 FearGen Premium: Coming soon 
 
 FearGen Premium is 3.50$ btw it adds faster updates and over 20 more features then the free verison, and inclouds a nicer GUI, its faster, less bugs and more. 
