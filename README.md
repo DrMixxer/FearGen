@@ -71,6 +71,28 @@ NOTE: When you generate the hashed verison it will give a unhashed verison so fo
 
 ### For support either open a issue or join the discord server (Coming soon).
 
+
+# Comaparison(Free Vs Paid)
+
+| Features         | FearGen Free     | Paid  |  
+| ---------------- | ------------- | ------------- |
+| Unique Serials   |       ✅      |      ✅      |
+| Hashing(256,512) |       ✅      |      ✅      |
+| Dashes(Serial)   |       X       |      ✅      |
+| 9999+ Serials    |       X       |      ✅      |
+| Speed Advantage  |       X       |      ✅      |
+| AutoSerialGen    |       X       |      ✅      |
+| UploadToDB(Auto) |       X       |      ✅      |
+| MultiFile        |       X       |      ✅      |
+| BetterHashing(Custom)    |       X       |      ✅      |
+| ReUnHash         |       X       |      ✅      |
+| BetterGen(faster)|       X       |      ✅      |
+| Language         |       Python  |      Python(1.0>)Rust(1.0<) |
+| AutoSerialGen    |       X       |      ✅      |
+|Custom File Format|       X       |      ✅(.serials)|
+
+
+
 # Donate
 
 To support project FearGen and me as a developer you can either BuyMeACoffee-Commingsoon, or donate via the resale platform, or buy FearGen Premium which adds many more features, early access to updates and more.
