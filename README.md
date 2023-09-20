@@ -87,9 +87,10 @@ NOTE: When you generate the hashed verison it will give a unhashed verison so fo
 | BetterHashing(Custom)    |       X       |      ✅      |
 | ReUnHash         |       X       |      ✅      |
 | BetterGen(faster)|       X       |      ✅      |
-| Language         |       Python  |      Python(1.0>)Rust(1.0<) |
+| Language         |       Python  |      Python(1.0>) ALTHOUGH FUTURE VERSIONS (1.5+) WILL BE IN RUST |
 | AutoSerialGen    |       X       |      ✅      |
 |Custom File Format|       X       |      ✅(.serials)|
+| Beta/Early Access|       X       |      ✅      |
 
 
 
