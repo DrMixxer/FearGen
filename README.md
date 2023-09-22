@@ -91,6 +91,9 @@ NOTE: When you generate the hashed verison it will give a unhashed verison so fo
 | AutoSerialGen    |       X       |      ✅      |
 |Custom File Format|       X       |      ✅(.serials)|
 | Beta/Early Access|       X       |      ✅      |
+| Microsoft Office Account Gen    |       X       |      ✅      |
+
+
 
 
 
