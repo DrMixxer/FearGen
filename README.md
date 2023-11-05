@@ -37,11 +37,11 @@ Picture of FearGen(B2):
 
 
 # Changlelog
-**Beta 1.0**
+**V1.0-Beta 1.0(Pre-Release)**
 
 [+] Added SerialGenerator.py
 
-**Beta 2.0**
+**V1.0-Beta-2.0(Pre-Release)**
 
 [+] Added UISerialGenerator.py (CustomTKinter UI)
 
@@ -51,7 +51,7 @@ Picture of FearGen(B2):
 
 [+] Made the serial generator more efficent
 
-**Beta 3.0**
+**V1.0-Beta-3.0(Pre-Release)**
 
 [+] Fixed bugs with the ErrorWindow.py
 
@@ -59,13 +59,37 @@ Picture of FearGen(B2):
 
 [+] Added start.bat
 
-**Beta 4.0**
+**V1.0-Beta-4.0(Pre-Release)**
 
 [+] Added Settings menu(You need to expand the application a bit, ill fix it next update)
 
 [+] Added hashing (SHA-256 + SHA-512)
 
 NOTE: When you generate the hashed verison it will give a unhashed verison so for example 2894ad9cd7f8a2f7ef18c330267697272e2941992f76959b16013ab1c66d0bae-examplecf26BUmXz3XmHuOM, examplecf26BUmXz3XmHuOM is the unhashed verison the dash seperates them and 2894ad9cd7f8a2f7ef18c330267697272e2941992f76959b16013ab1c66d0bae is hashed.
+
+**V1.0-Beta-5.0(Pre-Release)**
+
+[+] Added AutoUpdater
+
+[+] UI/UX Improvments 
+
+[+] Improved Installer
+
+## Planned Updated/Future
+
+**v1.0 Official Release**
+
+[+] MacOS/Linux Official Support
+
+[+] Complete Installer
+
+[+] Full Implementation of CustomTKinter
+
+[+] Preformence Improvements and Stability Fixes
+
+[+] Integrations to automatically push serials to sell.app, sellix, sellpass, etc
+
+[+] More Utility Functions/Scripts
 
 # Support 
 
